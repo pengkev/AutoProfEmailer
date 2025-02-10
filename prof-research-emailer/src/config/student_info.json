@@ -1,0 +1,82 @@
+{
+    "name": "Kevin Peng",
+    "program": "Engineering Science, University of Toronto",
+    "year": "First Year",
+    "relevant_courses": [
+        "ESC103: Engineering Mathematics and Computation",
+        "ESC102: Praxis II",
+        "ESC194: Calculus I for Engineering",
+        "MAT185: Linear Algebra for Engineering",
+        "ESC190: Data Structures and algorithms"
+    ],
+    "technical_skills": [
+        "Python",
+        "C",
+        "MATLAB",
+        "JavaScript",
+        "SQL",
+        "Bash",
+        "Flask",
+        "Git",
+        "Microsoft Office",
+        "Basic Machine Learning Concepts"
+    ],
+    "projects": [
+        {
+            "name": "Professor Research Emailer",
+            "description": "Developed an automated system to match professors' research with student interests",
+            "technologies": ["Python", "SQLite", "Google Gemini API"]
+        },
+        {
+            "name": "Name Rater",
+            "description": "Built an application to rate names based on factors such as rarity and cultural significance, integrating external APIs for data collection. Designed and executed test cases to verify algorithm accuracy.",
+            "technologies": ["Python", "API", "JSON", "Data Processing", "Algorithm Design"]
+        },
+        {
+            "name": "Synonym Evaluator",
+            "description": "Developed a system to analyze word meanings using cosine similarity, ensuring precise semantic comparisons. Implemented extensive testing, logging, and debugging to improve accuracy by 10%.",
+            "technologies": ["Python", "NLP", "Text Analysis", "Vectorization"]
+        }
+    ],
+    "experience": [
+        {
+            "name": "Wind Turbine Pitch Control",
+            "organization": "UTWind",
+            "description": "Designed and implemented a pitch control system for a Nema 24 stepper motor to optimize wind turbine performance. Conducted thorough testing and debugging of hardware systems, resolving connectivity issues with SSH and PuTTY.",
+            "technologies": ["Raspberry Pi", "GPIO", "Hardware Debugging", "Breadboarding"]
+        }
+    ],
+    "awards": [
+        {
+            "name": "UTRAHacks Hackathon",
+            "organization": "University of Toronto",
+            "description": "Won 1st place prize in the closed competition out of 400+ hackers."
+        },
+        {
+            "name": "Faculty of Applied Science and Engineering Award",
+            "organization": "University of Toronto",
+            "description": "Awarded scholarship of $10,000 for academic merit."
+        },
+        {
+            "name": "UTAPS Marion Choi Award",
+            "organization": "University of Toronto",
+            "description": "Awarded bursary of $10,000 for academic merit."
+        },
+        {
+            "name": "National Biology Competition",
+            "organization": "University of Toronto",
+            "description": "Placed 34th of over 2000 competitors (98th percentile)."
+        },
+        {
+            "name": "Avogadro Chemistry Exam Contest",
+            "organization": "University of Waterloo",
+            "description": "Placed in the top 250 of over 6000 competitors (96th percentile)."
+        }
+    ],
+    "research_interests": [
+        "Machine Learning",
+        "Robotics",
+        "Text Analysis",
+        "Algorithm Design"
+    ]
+}
